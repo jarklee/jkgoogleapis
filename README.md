@@ -1,0 +1,1 @@
+This is a fork from https://github.com/GoogleCloudPlatform/ios-docs-samples.git that make as standalone pod project work seamlessly with xcode project.
